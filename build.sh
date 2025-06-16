@@ -48,11 +48,11 @@ fi
 echo -e "${YELLOW}Substituting variables...${NC}"
 sed -e "s/{{email}}/$EMAIL/g" \
     -e "s/{{phone}}/$PHONE/g" \
-    -e "s/📧/Email:/g" \
-    -e "s/📱/Phone:/g" \
-    -e "s/🔗/LinkedIn:/g" \
-    -e "s/💻/GitHub:/g" \
-    -e "s/📍/Location:/g" \
+    -e "s/📧/**Email**:/g" \
+    -e "s/📱/**Phone**:/g" \
+    -e "s/🔗/**LinkedIn**:/g" \
+    -e "s/💻/**GitHub**:/g" \
+    -e "s/📍/**Location**:/g" \
     "$SOURCE_FILE" > "$TEMP_FILE"
 
 echo -e "${GREEN}✓ Variables substituted successfully${NC}"

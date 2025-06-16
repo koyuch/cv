@@ -15,11 +15,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       
-    - name: Install pandoc and LaTeX
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y pandoc texlive-latex-recommended texlive-fonts-recommended
-        
     - name: Build PDF
       env:
         CV_EMAIL: ${{ secrets.CV_EMAIL }}
