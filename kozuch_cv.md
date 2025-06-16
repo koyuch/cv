@@ -14,33 +14,33 @@ Highly experienced Big Data and Backend Developer with over 13 years of professi
 
 ## Technical Skills
 
-### **Programming Languages**
+### Programming Languages
 - **Primary**: Scala, Java, Python
 - **Secondary**: C/C++, C#, PHP, Kotlin, JavaScript
 - **Scripting**: Bash, MATLAB
 
-### **Big Data & Stream Processing**
+### Big Data & Stream Processing
 - **Frameworks**: Apache Spark, Apache Flink, Kafka Streams, Apache NiFi
 - **Databases**: PostgreSQL, MySQL, Hive, HBase, Redis
 - **Ecosystem**: Hadoop (HDFS), extensive SQL dialects
 
-### **Cloud & Infrastructure**
+### Cloud & Infrastructure
 - **AWS**: Terraform, Kinesis, Athena, Lambda, EC2
 - **Containerization**: Docker, Kubernetes
 - **CI/CD**: GitHub Actions, GitLab
 
-### **Web Development**
+### Web Development
 - **Backend**: Flask, Laravel, Lumen, FastAPI, Spring Boot, REST APIs
 - **Frontend**: Vue.js, HTML5, CSS3, JavaScript, jQuery
 - **Databases**: SQLAlchemy, Doctrine ORM, SQLModel
 
-### **AI/ML & Data Processing**
+### AI/ML & Data Processing
 - Named Entity Recognition (spaCy, Stanza, HuggingFace)
 - OpenAI API integration
 - Pandas, NumPy, SciPy
 - Optimization algorithms (PSO, Evolutionary algorithms)
 
-### **Hardware & Embedded Systems**
+### Hardware & Embedded Systems
 - Raspberry Pi development - home projects
 - Audio hardware integration
 
