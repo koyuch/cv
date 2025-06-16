@@ -1,1 +1,20 @@
-.idea
+# Ignore generated files
+output/
+temp_cv.md
+
+# Ignore local configuration
+config.local
+
+# Node modules (if any)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

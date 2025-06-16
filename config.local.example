@@ -1,0 +1,5 @@
+# Local configuration for CV build
+# Copy this file to config.local and fill in your details
+
+EMAIL="your.email@example.com"
+PHONE="+421 XXX XXX XXX"
