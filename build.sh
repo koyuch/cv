@@ -52,6 +52,7 @@ sed -e "s/{{email}}/$EMAIL/g" \
     -e "s/📱/**Phone**:/g" \
     -e "s/🔗/**LinkedIn**:/g" \
     -e "s/💻/**GitHub**:/g" \
+    -e "s/📄/**CV source**:/g" \
     -e "s/📍/**Location**:/g" \
     "$SOURCE_FILE" > "$TEMP_FILE"
 

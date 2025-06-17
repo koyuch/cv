@@ -2,7 +2,7 @@
 **Senior Big Data & Backend Developer**
 
 📧 [{{email}}](mailto:{{email}}) | 📱 [{{phone}}](tel:{{phone}})  
-🔗 [linkedin.com/in/michal-kozuch](https://www.linkedin.com/in/michal-kozuch/) | 💻 [github.com/koyuch](https://github.com/koyuch)  
+🔗 [linkedin.com/in/michal-kozuch](https://www.linkedin.com/in/michal-kozuch/) | 💻 [github.com/koyuch](https://github.com/koyuch) | 📄 [CV source on GitHub](https://github.com/koyuch/cv/blob/main/kozuch_cv.md)  
 📍 Bratislava / Klokočov, Slovakia / Frýdlant nad Ostravicí, Czechia (primarily seeking remote opportunities)
 
 ---
@@ -176,6 +176,10 @@ Gymnasium Grösslingová 18 | Bratislava, Slovakia
 
 ## Personal Projects
 
+*   **CV Project:** Source code and build system for this curriculum vitae. Uses Pandoc & LaTeX with GitHub Actions to generate a PDF from Markdown.
+    *   [github.com/koyuch/cv](https://github.com/koyuch/cv)
+*   **think-nix:** Advanced NixOS configurations and utilities for local PC "deployment". (Nix)
+    *   [github.com/koyuch/think-nix](https://github.com/koyuch/think-nix)
 *   **alsa-relay-bridge:** Integration for Raspberry Pi with Allo Relay Attenuator for ALSA volume control. Enables hardware volume adjustments reflecting in software mixers. (Python, ALSA, Raspberry Pi)
     *   [github.com/koyuch/alsa-relay-bridge](https://github.com/koyuch/alsa-relay-bridge)
 
