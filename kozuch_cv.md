@@ -17,32 +17,44 @@ Highly experienced Big Data and Backend Developer with over 13 years of professi
 ### Programming Languages
 - **Primary**: Java, Scala, Python
 - **Secondary**: C/C++, C#, PHP, Kotlin, JavaScript
-- **Scripting**: Bash, MATLAB
+- **Scripting**: Bash, MATLAB, SQL (various dialects like PostgreSQL, MySQL, HiveQL)
 
 ### Big Data & Stream Processing
 - **Frameworks**: Apache Flink, Kafka Streams, Apache NiFi, Apache Spark
-- **Databases**: PostgreSQL, MySQL, Hive, HBase, Redis
+- **Databases**: PostgreSQL, MySQL/MariaDB, Hive, HBase, Redis, SQLite
 - **Ecosystem**: Hadoop (HDFS), extensive SQL dialects
 
 ### Cloud & Infrastructure
-- **AWS**: Terraform, Kinesis, Athena, Lambda, EKS, EC2, S3
+- **Cloud Platforms**: AWS (Terraform, Kinesis, Athena, Lambda, EKS, EC2, S3, ...), Azure
 - **Containerization**: Docker, Kubernetes
 - **CI/CD**: GitHub Actions, GitLab
 
 ### Web Development
 - **Backend**: FastAPI, Spring Boot, Flask, Nette, Laravel, Lumen, REST APIs
-- **Frontend**: Vue.js, React, HTML5, CSS3, JavaScript/TypeScript, jQuery
-- **ORMs**: SQLAlchemy, Doctrine ORM, SQLModel
+- **Frontend**: Vue.js, React, HTML5, CSS3 (LESS/SASS), JavaScript/TypeScript, jQuery, PWAs
+- **ORMs**: SQLAlchemy, SQLModel, Doctrine ORM
 
 ### AI/ML & Data Processing
-- Named Entity Recognition (spaCy, Stanza, HuggingFace)
-- OpenAI API integration
+- Named Entity Recognition (spaCy, Stanza, HuggingFace Transformers)
+- OpenAI API integration (including Azure OpenAI)
 - Pandas, NumPy, SciPy
 - Optimization algorithms (PSO, Evolutionary algorithms)
 
 ### Hardware & Embedded Systems
-- Raspberry Pi development - home projects
+- Raspberry Pi development, OpenWRT
 - Audio hardware integration
+
+### Software Design & Methodologies
+- Object-Oriented Programming, Functional Programming
+- Stream-based Architecture, Microservices, Domain-Driven Design (DDD)
+
+### Tools & Operating Systems
+- **Version Control**: Git
+- **Operating Systems**: Linux (Ubuntu, Debian, Arch Linux, Fedora, Amazon Linux, Gentoo, NixOS)
+
+### Networking
+- Network design & setup (OSI, TCP/IP)
+- Cisco CCNA (previously earned)
 
 ---
 
@@ -161,35 +173,6 @@ Faculty of Informatics & Information Technologies, Slovak Technical University |
 **High School Diploma (Class Specialization in Mathematics)**
 Gymnasium Grösslingová 18 | Bratislava, Slovakia
 (2001 - 2006)
-
-## Skills
-
-**Programming Languages:**
-Java, Scala, Python, PHP, Kotlin, SQL (PostgreSQL, MySQL, HiveQL, etc.), C/C++, C#, JavaScript, Bash, Matlab
-
-**Big Data & Streaming:**
-Apache Flink, Kafka Streams, Apache NiFi, Apache Spark, Hadoop Ecosystem (HDFS, Hive, HBase)
-
-**Web Technologies & Frameworks:**
-REST APIs, FastAPI, Flask, Spring Boot, Lumen/Laravel, Nette, HTML, CSS (LESS/SASS), jQuery, Vue.js, PWAs
-
-**Databases:**
-PostgreSQL, MySQL/MariaDB, HBase, Redis, SQLite
-
-**DevOps & Cloud:**
-AWS (Kinesis, Athena, Lambda, EKS, EC2, S3, ...), Docker, Kubernetes, Terraform, GitHub Actions, Heroku, CI/CD
-
-**Tools & Platforms:**
-Git, Linux (Ubuntu, Debian, Arch Linux, Fedora, Gentoo, NixOS), SOC systems (Raspberry Pi, OpenWRT) Android, FOSS enthusiast
-
-**Methodologies & Concepts:**
-Object-Oriented Programming, Functional Programming, Stream-based Architecture, Microservices, Domain-Driven Design (DDD)
-
-**Machine Learning & Optimization:**
-Nature-inspired algorithms (PSO, Evolutionary Algorithms), NER (spaCy, Stanza, Huggingface Transformers), Azure OpenAI
-
-**Networking:**
-Computer network design & setup (OSI, TCP/IP), Cisco CCNA Certificate (previously earned)
 
 ## Personal Projects
 
