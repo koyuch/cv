@@ -2,10 +2,9 @@ name: Build CV
 
 on:
   push:
-    branches: [ main, master ]
-    tags: [ 'v*' ]
+    branches: [ main ]
   pull_request:
-    branches: [ main, master ]
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
@@ -30,9 +29,3 @@ jobs:
         name: cv-pdf
         path: output/kozuch_cv.pdf
         retention-days: 30
-        
-    - name: Create Release on tag
-      uses: softprops/action-gh-release@v2
-      if: github.ref_type == 'tag'
-      with:
-        files: output/kozuch_cv.pdf

@@ -22,6 +22,8 @@ To use the automated build, you need to set these repository secrets:
    - `CV_EMAIL`: Your email address
    - `CV_PHONE`: Your phone number
 
+**Note**: The build script will use GitHub secrets (environment variables) if available, otherwise it falls back to local config files.
+
 ### Workflow Features
 
 - Builds PDF on every push to main/master
