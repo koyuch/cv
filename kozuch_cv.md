@@ -3,7 +3,7 @@
 
 📧 [{{email}}](mailto:{{email}}) | 📱 [{{phone}}](tel:{{phone}})  
 🔗 [linkedin.com/in/michal-kozuch](https://www.linkedin.com/in/michal-kozuch/) | 💻 [github.com/koyuch](https://github.com/koyuch)  
-📍 Bratislava / Klokočov, Slovakia (primarily seeking remote opportunities)
+📍 Bratislava / Klokočov, Slovakia / Frýdlant nad Ostravicí, Czechia (primarily seeking remote opportunities)
 
 ---
 
@@ -15,24 +15,24 @@ Highly experienced Big Data and Backend Developer with over 13 years of professi
 ## Technical Skills
 
 ### Programming Languages
-- **Primary**: Scala, Java, Python
+- **Primary**: Java, Scala, Python
 - **Secondary**: C/C++, C#, PHP, Kotlin, JavaScript
 - **Scripting**: Bash, MATLAB
 
 ### Big Data & Stream Processing
-- **Frameworks**: Apache Spark, Apache Flink, Kafka Streams, Apache NiFi
+- **Frameworks**: Apache Flink, Kafka Streams, Apache NiFi, Apache Spark
 - **Databases**: PostgreSQL, MySQL, Hive, HBase, Redis
 - **Ecosystem**: Hadoop (HDFS), extensive SQL dialects
 
 ### Cloud & Infrastructure
-- **AWS**: Terraform, Kinesis, Athena, Lambda, EC2
+- **AWS**: Terraform, Kinesis, Athena, Lambda, EKS, EC2, S3
 - **Containerization**: Docker, Kubernetes
 - **CI/CD**: GitHub Actions, GitLab
 
 ### Web Development
-- **Backend**: Flask, Laravel, Lumen, FastAPI, Spring Boot, REST APIs
-- **Frontend**: Vue.js, HTML5, CSS3, JavaScript, jQuery
-- **Databases**: SQLAlchemy, Doctrine ORM, SQLModel
+- **Backend**: FastAPI, Spring Boot, Flask, Nette, Laravel, Lumen, REST APIs
+- **Frontend**: Vue.js, React, HTML5, CSS3, JavaScript/TypeScript, jQuery
+- **ORMs**: SQLAlchemy, Doctrine ORM, SQLModel
 
 ### AI/ML & Data Processing
 - Named Entity Recognition (spaCy, Stanza, HuggingFace)
@@ -67,7 +67,7 @@ Highly experienced Big Data and Backend Developer with over 13 years of professi
 
 ---
 
-**IT Consultation & Full-Stack Development** | Michal Kožuch - Freelance
+**IT Consultation & Full-Stack Development** | Freelance
 (Mar 2018 - Sep 2019) | Remote, Slovakia
 
 *   Delivered solutions for various web-based projects.
@@ -165,10 +165,10 @@ Gymnasium Grösslingová 18 | Bratislava, Slovakia
 ## Skills
 
 **Programming Languages:**
-Scala, Java, Python, PHP, Kotlin, SQL (PostgreSQL, MySQL, HiveQL, etc.), C/C++, C#, JavaScript, Bash, Matlab
+Java, Scala, Python, PHP, Kotlin, SQL (PostgreSQL, MySQL, HiveQL, etc.), C/C++, C#, JavaScript, Bash, Matlab
 
 **Big Data & Streaming:**
-Apache Spark, Apache Flink, Kafka Streams, Apache NiFi, Hadoop Ecosystem (HDFS, Hive, HBase)
+Apache Flink, Kafka Streams, Apache NiFi, Apache Spark, Hadoop Ecosystem (HDFS, Hive, HBase)
 
 **Web Technologies & Frameworks:**
 REST APIs, FastAPI, Flask, Spring Boot, Lumen/Laravel, Nette, HTML, CSS (LESS/SASS), jQuery, Vue.js, PWAs
@@ -177,10 +177,10 @@ REST APIs, FastAPI, Flask, Spring Boot, Lumen/Laravel, Nette, HTML, CSS (LESS/SA
 PostgreSQL, MySQL/MariaDB, HBase, Redis, SQLite
 
 **DevOps & Cloud:**
-AWS (Kinesis, Athena, Lambda), Docker, Kubernetes, Terraform, GitHub Actions, Heroku, CI/CD
+AWS (Kinesis, Athena, Lambda, EKS, EC2, S3, ...), Docker, Kubernetes, Terraform, GitHub Actions, Heroku, CI/CD
 
 **Tools & Platforms:**
-Git, Subversion, Linux (Ubuntu, Raspbian, OpenWRT), Android, FOSS enthusiast
+Git, Linux (Ubuntu, Debian, Arch Linux, Fedora, Gentoo, NixOS), SOC systems (Raspberry Pi, OpenWRT) Android, FOSS enthusiast
 
 **Methodologies & Concepts:**
 Object-Oriented Programming, Functional Programming, Stream-based Architecture, Microservices, Domain-Driven Design (DDD)
