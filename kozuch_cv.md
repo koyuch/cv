@@ -2,7 +2,7 @@
 **Senior Big Data & Backend Developer**
 
 📧 [{{email}}](mailto:{{email}}) | 📱 [{{phone}}](tel:{{phone}})  
-🔗 [linkedin.com/in/michal-kozuch](https://www.linkedin.com/in/michal-kozuch/) | 💻 [github.com/koyuch](https://github.com/koyuch) | 📄 [CV source on GitHub](https://github.com/koyuch/cv/blob/main/kozuch_cv.md)  
+🔗 [linkedin.com/in/michal-kozuch](https://www.linkedin.com/in/michal-kozuch/) | 💻 [github.com/koyuch](https://github.com/koyuch) | 📄 [github.com/koyuch/cv/blob/main/kozuch_cv.md](https://github.com/koyuch/cv/blob/main/kozuch_cv.md)  
 📍 Bratislava / Klokočov, Slovakia / Frýdlant nad Ostravicí, Czechia (primarily seeking remote opportunities)
 
 ---
